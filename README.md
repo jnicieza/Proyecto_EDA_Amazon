@@ -7,7 +7,7 @@ El objetivo es comprender el comportamiento de las ventas, transformar los datos
 ---
 
 ## 📁 Estructura del Proyecto
-📦 Proyecto-EDA-Amazon
+📦 Proyecto_EDA_Amazon
  ├── 📁 Data
  │     └── amazon_sales.csv
  ├── 📁 EDA
